@@ -1,4 +1,4 @@
-# Lucas Onofre - Data Analysis - Gapminder Dataset (ID: 1678505)
+# Data Analysis - Gapminder Dataset
 
 # Install necessary packages (only first time)
 # install.packages("patchwork") 
